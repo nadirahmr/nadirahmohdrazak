@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  url_launcher: ^6.3.0
+  audioplayers: ^6.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -59,8 +61,45 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+   - assets/Says It Kiss Of Life.mp3
+   - assets/profile_picture.jpg
+   - assets/logo.png
+   - assets/cg (1).jpg
+   - assets/cg (2).jpg
+   - assets/cg (3).jpg
+   - assets/cg (4).jpg
+   - assets/cg (5).jpg
+   - assets/cg (6).jpg
+   - assets/cg (7).jpg
+   - assets/cg (8).jpg
+   - assets/cg (9).jpg
+   - assets/cg (10).jpg
+   - assets/cg (11).jpg
+   - assets/cg (12).jpg
+   - assets/cg (13).jpg
+   - assets/cg (14).jpg
+   - assets/fyp_poster.jpg
+   - assets/mc_auth (1).jpg
+   - assets/mc_auth (2).jpg
+   - assets/mc_auth (3).jpg
+   - assets/mc_auth (4).jpg
+   - assets/me (1).jpg
+   - assets/me (2).jpg
+   - assets/me (3).jpg
+   - assets/me (4).jpg
+   - assets/me (5).jpg
+   - assets/weka_analysis (1).jpg
+   - assets/weka_analysis (2).jpg
+   - assets/weka_analysis (3).jpg
+   - assets/weka_analysis (4).jpg
+   - assets/weka_analysis (5).jpg
+   - assets/weka_analysis (6).jpg
+   - assets/weka_analysis (7).jpg
+   - assets/weka_analysis (8).jpg
+   - assets/weka_analysis (9).jpg
+   - assets/weka_analysis (10).jpg
+   - assets/weka_analysis (11).jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
